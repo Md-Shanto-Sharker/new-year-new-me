@@ -1,0 +1,192 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  /* max-width: 1640px; */
+  margin: 0 auto;
+}
+
+.thinks {
+  padding: 200px 100px;
+  /* max-width: 1640px;
+  margin: 0 auto; */
+  background-image: url("/images/banner/banner1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-bottom: 200px;
+}
+
+.text-1 {
+  font-size: 64px;
+  font-weight: bold;
+}
+.text-1-p {
+  font-size: 28px;
+  color: #918f8f;
+}
+
+.all-thinks {
+  margin-left: 900px;
+  text-align: end;
+}
+
+.btn {
+  background-color: rgb(255, 94, 0);
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 20px;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+/* failure section */
+.failures {
+  max-width: 1640px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 150px;
+}
+.f-p {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 38px;
+  color: #918f8f;
+}
+.mark {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  font-size: 28px;
+  color: #918f8f;
+}
+.green {
+  color: rgb(29, 204, 29);
+}
+.text-1 {
+  font-size: 65px;
+  font-weight: bold;
+}
+.failures-text {
+  margin-top: 100px;
+}
+
+.person-img-container {
+  background-color: rgb(223, 184, 184);
+
+  width: 700px;
+  height: 700px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* bottom: 0;        
+  left: 50%; */
+}
+.person-img {
+  width: 80%;
+  height: auto;
+}
+
+/* plans */
+.plans {
+  max-width: 1640px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 80px;
+  margin-bottom: 200px;
+}
+.plans img {
+  width: 100px;
+  margin-bottom: 20px;
+}
+.plans-p {
+  font-size: 18px;
+}
+
+/* mindset */
+.mindset {
+  max-width: 1640px;
+  margin: 0 auto;
+  background-image: linear-gradient(
+      rgba(240, 91, 34, 100),
+      rgba(255, 255, 255, 0)
+    ),
+    url("/images/watch.png");
+  background-position: center;
+  border-radius: 20px;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 80px;
+}
+.plans-text {
+  font-size: 40px;
+  font-weight: 600px;
+  color: white;
+}
+.btn-2 {
+  background-color: white;
+  border-radius: 10px;
+  border: none;
+  padding: 30px;
+  color: orangered;
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.paragraph {
+  margin-left: 50px;
+}
+
+/* footer */
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  padding: 80px 150px;
+}
+
+.sub {
+  color: white;
+  font-size: 52px;
+  font-weight: 40px;
+  margin-bottom: 10px;
+}
+.input {
+  border: white 2px solid;
+  color: white;
+  padding: 20px;
+  height: 40px;
+  margin-top: 10px;
+}
+.text {
+  color: white;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+.font-awsomw {
+  color: white;
+  font-size: 30px;
+}
+.subscribe {
+  text-align: start;
+  margin-top: 10px;
+}
+.btn-3 {
+  background-color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 15px;
+  color: orangered;
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
