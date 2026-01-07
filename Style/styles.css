@@ -10,9 +10,7 @@ body {
 
 .thinks {
   padding: 200px 100px;
-  /* max-width: 1640px;
-  margin: 0 auto; */
-  background-image: url("./images/banner/banner1.png");
+  background-image: url("../images/banner/banner1.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
