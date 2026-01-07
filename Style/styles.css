@@ -12,7 +12,7 @@ body {
   padding: 200px 100px;
   /* max-width: 1640px;
   margin: 0 auto; */
-  background-image: url("/images/banner/banner1.png");
+  background-image: url("./images/banner/banner1.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -118,7 +118,7 @@ body {
       rgba(240, 91, 34, 100),
       rgba(255, 255, 255, 0)
     ),
-    url("/images/watch.png");
+    url("./images/watch.png");
   background-position: center;
   border-radius: 20px;
   padding-top: 150px;
