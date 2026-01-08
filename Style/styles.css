@@ -116,7 +116,7 @@ body {
       rgba(240, 91, 34, 100),
       rgba(255, 255, 255, 0)
     ),
-    url("/images/watch.png");
+    url("../images/watch.png");
   background-position: center;
   border-radius: 20px;
   padding-top: 150px;
